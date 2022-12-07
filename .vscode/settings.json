@@ -1,0 +1,8 @@
+{
+	"python.autoComplete.extraPaths": [
+		"server/__pypackages__/3.10/lib",
+		"server"
+	],
+	"python.analysis.extraPaths": ["server/__pypackages__/3.10/lib", "server"],
+	"python.formatting.provider": "black"
+}
